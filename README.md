@@ -18,7 +18,8 @@ Further information http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recogn
 Program description
 The following steps are done with run_analysis.R to get clean dataset
 
-1) Read the the test and the train datasets 
+1) Read the the test and the train datasets
+
 2) Read variable names from the original file "features.txt"
 3) Clean variable names to be more descriptive
 4) Assign variable names to test and train datasets
