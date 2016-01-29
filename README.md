@@ -21,13 +21,22 @@ The following steps are done with run_analysis.R to get clean dataset
 1) Read the the test and the train datasets
 
 2) Read variable names from the original file "features.txt"
+
 3) Clean variable names to be more descriptive
+
 4) Assign variable names to test and train datasets
+
 5) Merge subject, activity and data together for test and train data
+
 6) Extract only the mean and standard deviation for each subject and activity (with reference to variables mean() and std() of features_info.xt)
+
 7) Merge test and train dataset to get one single dataset
+
 8) Read names of activities from "activity_labels.txt" and merge names with the datset
+
 9) Remove duplicate activity column
-10) Create clean dataset by aggregating and grouping datset by subject and activity name using mean function 
+
+10) Create clean dataset by aggregating and grouping datset by subject and activity name using mean function
+
 11) Order clean dataset by subject and activity
 12) Save clean dataset as text file
