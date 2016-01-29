@@ -1,3 +1,19 @@
+#####Source
+Each record contains
+
+Number of person who conducted experiment
+- Integer
+Name of activity
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
+For each person and activity the mean and standard deviation of the following variables (from 3 on) is calculated.
+For details about the original data set look at the respective file features_info.txt and REAMDE.txt included in zip file.
+
+
 ##### Variables
 1. subject
 2. activity_name
