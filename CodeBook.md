@@ -1,7 +1,5 @@
 #####Source
-Each record contains
-
-Number of person who conducted experiment
+Each record contains number/identifier of participant who conducted experiment
 - Integer
 Name of activity
 - WALKING
