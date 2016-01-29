@@ -10,6 +10,7 @@ Name of activity
 - SITTING
 - STANDING
 - LAYING
+
 For each person and activity the mean and standard deviation of the following variables (from 3 on) is calculated.
 For details about the original data set look at the respective file features_info.txt and REAMDE.txt included in zip file.
 
