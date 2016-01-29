@@ -1,8 +1,8 @@
 #Getting and Cleaning Data Course Project
 
 Tasks from course page
-You should create one R script called run_analysis.R that does the following.
 
+You should create one R script called run_analysis.R that does the following.
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
 Uses descriptive activity names to name the activities in the data set
@@ -10,12 +10,14 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Data Source
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 After downloading zip file need to be unziped and stored in working directory of R (or change working directory)
 The zip file contains data collected from the accelerometers (various measured variables) from the Samsung Galaxy S smartphone from 30 experiment volunteers in various activities. 
 Further information http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Program description
+
 The following steps are done with run_analysis.R to get clean dataset
 
 1) Read the the test and the train datasets
